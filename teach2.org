@@ -1,0 +1,9 @@
+:HEADER:
+#+TITLE: The Teaching of Orthic Shorthand, Part II
+#+AUTHOR: W. Stevens
+#+OPTIONS: whn:nil toc:3
+#+DESCRIPTION: A series of lessons for the use of teachers and students of orthographic shorthand
+#+LANGUAGE: en
+#+DATE: 1896
+#+LATEX: \setlength\parindent{0pt}
+:END:
