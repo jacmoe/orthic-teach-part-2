@@ -12,19 +12,31 @@
 \pagebreak
 #+end_export
 * 1
-asd
+The object of this second manual on the teaching of Orthic Shorthand is to supply fuller explanations, and illustrations, of the methods of abbreviation.
 * 2
-asd
+The “Reporting Style” of Orthic is in no way essentially different from the “Corresponding Style.”
+
+There is little new to learn, and nothing to unlearn. It is simply the same methods of abbreviation as given in the Teacher’s Manual, part I, extended.
 * 3
-asd
+Impress, therefore, upon the students that the abbreviations are no mere arbitraries, but are logical conclusions based upon what has gone before.
 * 4
-asd
+_The Alphabet_. The only additional character is X /b/ - the upright stroke of the longhand character - which may be substituted for X, see the combination X /mb/.
+
+This alternative character should only be used medially; as X = /bible/, X /probably/, X equals /but/. Thus X.
 * 5
-asd
+On page 6, paragraph 7, of the Teacher’s Manual, and on page 12 of the Author’s Manual, it has been shown that “ws” final is written with a loop, thus X.
+
+By an extension of this principle, we may use the “ws” loop for the _Word was_, and join it to the preceding word. Similarly to “t’was” in longhand; thus X = /I was/, X = /it was/, X /that was/, X /nothing was/, X /if it was/.
 * 6
-asd
+_Supra Linear_. In the termination “vowel ve”, we have the rule laid down, that the omission of this termination may be indicated by a dot, or, if inflected, by the inflection written _above_ the last letter; this was shown to be a logical consequence.
+
+Now this dot, representing the “vowel ve” termination, may very safely be used to indicate _the werb ‘have’_; as X /I have/. Compare /I’ve/ in longhand. X /do have/, X /will have/.
+
+N.B. This dot cannot clash with _”be”_. Why? Because this word dot is written _midway between words_; thus /all that can be said we have said/ = X.
+
+Naturally following this suggestion, we can deal with “having” in the same way: as X /not having/, cp. X /not being/.
 * 7
-asd
+_Extension of this rule_. This supra linear /ve dot/ may be omitted altogether, and a following word written _in the place of it_, to indicate the verb “have” understood. Thus X /to have been/, X /could have been/, X /he might have had/.
 * 8
 asd
 * 9
@@ -91,3 +103,5 @@ asd
 asd
 * 40
 asd
+
+#  LocalWords:  pagebreak asd mb cp ve
