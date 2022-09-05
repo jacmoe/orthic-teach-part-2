@@ -1,9 +1,93 @@
 :HEADER:
 #+TITLE: The Teaching of Orthic Shorthand, Part II
 #+AUTHOR: W. Stevens
-#+OPTIONS: whn:nil toc:3
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
 #+DESCRIPTION: A series of lessons for the use of teachers and students of orthographic shorthand
 #+LANGUAGE: en
 #+DATE: 1896
 #+LATEX: \setlength\parindent{0pt}
 :END:
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* 1
+asd
+* 2
+asd
+* 3
+asd
+* 4
+asd
+* 5
+asd
+* 6
+asd
+* 7
+asd
+* 8
+asd
+* 9
+asd
+* 10
+asd
+* 11
+asd
+* 12
+asd
+* 13
+asd
+* 14
+asd
+* 15
+asd
+* 16
+asd
+* 17
+asd
+* 18
+asd
+* 19
+asd
+* 20
+asd
+* 21
+asd
+* 22
+asd
+* 23
+asd
+* 24
+asd
+* 25
+asd
+* 26
+asd
+* 27
+asd
+* 28
+asd
+* 29
+asd
+* 30
+asd
+* 31
+asd
+* 32
+asd
+* 33
+asd
+* 34
+asd
+* 35
+asd
+* 36
+asd
+* 37
+asd
+* 38
+asd
+* 39
+asd
+* 40
+asd
