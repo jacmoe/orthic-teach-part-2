@@ -38,15 +38,24 @@ Naturally following this suggestion, we can deal with “having” in the same w
 * 7
 _Extension of this rule_. This supra linear /ve dot/ may be omitted altogether, and a following word written _in the place of it_, to indicate the verb “have” understood. Thus X /to have been/, X /could have been/, X /he might have had/.
 * 8
-asd
+This /V Mode/ may be extended to the suffix “ow”; thus X /narrower/, X /borrow/, X /borrowing/, X /sorrow/, X /sorrowful/. See S. 32.
 * 9
-asd
+As given in the manual, initial “th” is omitted and the rest of the word written _above_ the line.
+
+Extend this principle, and, by placing _the verb above_ the line, understand the _word they_, omitted. Thus /I think they might have been/ X, cp. /he might have been/ X.
 * 10
-asd
+_Sub linear writing_. As per the Author’s Manual, the prefixes /de/, /di/, and /dis/ may be omitted, and the rest of the word written below the line. Thus X = /declare/, X = /digress/, X /disciple/, X /descend/, X /indisputable/.
+
+Further, when a word begins with “wh”, the “wh” may be omitted, and the rest of the word written _below_ the line. Thus X /who/, X /what/, X /who was/.
 * 11
-asd
+_Extension of this rule_. The word “which” is so frequently in use, that we may safely indicate the omission of the word “which” by writing the following word _below_ the line, as /did you say which it was/ X, /which might have been/ X.
+
+Compare the following positions:
+1. X /they might have been/.
+2. X /might have been/.
+3. X /which might have been/.
 * 12
-asd
+_Intersections_. Many letters in the Orthic alphabet readily intersect. This method may be used to indicate the omission of one or two syllables; and it is especially adapted to the expression of polysyllabic terminations
 * 13
 asd
 * 14
@@ -104,4 +113,4 @@ asd
 * 40
 asd
 
-#  LocalWords:  pagebreak asd mb cp ve
+#  LocalWords:  pagebreak asd mb cp ve th de di wh
