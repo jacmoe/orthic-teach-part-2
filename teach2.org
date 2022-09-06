@@ -1,12 +1,13 @@
 :HEADER:
 #+TITLE: The Teaching of Orthic Shorthand, Part II
+#+SUBTITLE: Rules for reporting, for the use of teachers and students of Orthographic Shorthand
 #+AUTHOR: W. Stevens
+#+DATE: 1896
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
-#+DESCRIPTION: A series of lessons for the use of teachers and students of orthographic shorthand
 #+LANGUAGE: en
-#+DATE: 1896
 #+LATEX: \setlength\parindent{0pt}
+#+SETUPFILE: ./jacmoe-latex-standard-setup.org
 :END:
 #+begin_export LaTeX
 \pagebreak
