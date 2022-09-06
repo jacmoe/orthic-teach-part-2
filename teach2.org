@@ -6,6 +6,7 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
 #+LANGUAGE: en
+#+OPTIONS: html-postamble:nil
 #+LATEX: \setlength\parindent{0pt}
 #+SETUPFILE: ./jacmoe-latex-standard-setup.org
 :END:
