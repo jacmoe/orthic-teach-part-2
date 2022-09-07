@@ -81,9 +81,9 @@ When written _above_ the last letter, and disjoined, it is the equivalent for �
 
 When written _below_ the last letter it stands for “ly”, as X /truly/, X /verily/, X /daily/.
 * 20
-
+/Ou/, X, stands for the terminations /ount/ or /ound/. Thus, X /count/, X /county/, X /profound/, X /astounding/.
 * 21
-asd
+On the principle that X equals /quite/, and X equals /write/, X, /i/, will stand for the terminations “ite” or “ide”. E.g. X /bite/, X /exquisite/, X /confide/, X /deride/, etc.
 * 22
 asd
 * 23
@@ -131,4 +131,5 @@ The original, untranslated document is available from the Orthic homepage: https
 
 
 #  LocalWords:  pagebreak asd mb cp ve th de di wh diate tiate ing ish ade ote
-#  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly
+#  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly Ou ount ound
+#  LocalWords:  ite ide
