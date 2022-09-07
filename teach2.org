@@ -57,23 +57,31 @@ Compare the following positions:
 2. X /might have been/.
 3. X /which might have been/.
 * 12
-_Intersections_. Many letters in the Orthic alphabet readily intersect. This method may be used to indicate the omission of one or two syllables; and it is especially adapted to the expression of polysyllabic terminations
+_Intersections_. Many letters in the Orthic alphabet readily intersect. This method may be used to indicate the omission of one or two syllables; and it is especially adapted to the expression of polysyllabic terminations; e.g. /g/ for /logical/, /a/ for /diate/ or /tiate/, etc.
 * 13
-asd
+_Outline cutting outline_. The termination X /ing/ cutting the last part of a word, signifies the omission of “ish”; thus, X = /flourishing/, X = /polishing/, X = /varnishing/.
 * 14
-asd
+The vowel /a/ X will generally intersect another letter, and may be used to express the terminations /tiate/, /diate/, /ate/, and /ade/. As X, /immediate/, or X. X /graduate/, X /fade/.
+
+Inflections of the terminations /ate/ and /ade/ will of course be indicated by the last letter of the inflection; thus X /graduated/, X /actuated/.
+
+Similarly, the vowel /o/ X, may be used to express /ote/ and /ode/; as X /remote/, X /antidote/ or X.
 * 15
-asd
+P, X, is already given in the Manual and Supplement, when intersecting, as equivalent for the termination ‘ship’, thus X /marksmanship/, X /worship/, X /fellowship/, X /secretaryship/.
 * 16
-asd
+G, X, readily intersects, and may be used for the terminations _lough_ and _logical_, e.g. X /catalogue/, X /prologue/, X /zoological/, X /phrenological/.
 * 17
-asd
+S, X, when intersecting the last letter can conveniently stand for any polysyllabic word ending in /ious/, /ceous/, etc. as X /herbaceous/, X /extraneous/, X /expeditious/, etc.
 * 18
-asd
+_Finals_. In abbreviating words ending in /ent/, /ence/, /ency/, /graph/, /ism/, /wise/, use /t/, /ce/, /cy/, /ph/, /m/, and /se/ respectively. Thus, X /subvent/, X /evidence/, X /expediency/, X /telegraph/, X /criticism/, X /otherwise/.
 * 19
-asd
+Y, X, final, _when joined to a preceding letter_, stands for the terminations /ty/, /ary/, or /ory/. Thus, X /duty/, X /beauty/, X /lusty/, X /canary/, X /ordinary/, X /story/, X /conservatory/.
+
+When written _above_ the last letter, and disjoined, it is the equivalent for “ity”, e.g. X /pity/, X /sincerity/.
+
+When written _below_ the last letter it stands for “ly”, as X /truly/, X /verily/, X /daily/.
 * 20
-asd
+
 * 21
 asd
 * 22
@@ -122,4 +130,5 @@ The source code is hosted at [[https://github.com/jacmoe/orthic-teach-part-2]].
 The original, untranslated document is available from the Orthic homepage: https://orthic.shorthand.fun/ as https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf.
 
 
-#  LocalWords:  pagebreak asd mb cp ve th de di wh
+#  LocalWords:  pagebreak asd mb cp ve th de di wh diate tiate ing ish ade ote
+#  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly
