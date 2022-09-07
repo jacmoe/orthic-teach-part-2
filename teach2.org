@@ -22,25 +22,25 @@ There is little new to learn, and nothing to unlearn. It is simply the same meth
 * 3
 Impress, therefore, upon the students that the abbreviations are no mere arbitraries, but are logical conclusions based upon what has gone before.
 * 4
-_The Alphabet_. The only additional character is X /b/ - the upright stroke of the longhand character - which may be substituted for X, see the combination X /mb/.
+_The Alphabet_. The only additional character is [[file:img/fig1.png]] /b/ - the upright stroke of the longhand character - which may be substituted for [[file:img/fig2.png]], see the combination [[file:img/fig3.png]] /mb/.
 
-This alternative character should only be used medially; as X = /bible/, X /probably/, X equals /but/. Thus X.
+This alternative character should only be used medially; as [[file:img/fig4.png]] = /bible/, [[file:img/fig5.png]] /probably/, [[file:img/fig6.png]] equals /but/. Thus [[file:img/fig7.png]] [[file:img/fig8.png]].
 * 5
-On page 6, paragraph 7, of the Teacher’s Manual, and on page 12 of the Author’s Manual, it has been shown that “ws” final is written with a loop, thus X.
+On page 6, paragraph 7, of the Teacher’s Manual, and on page 12 of the Author’s Manual, it has been shown that “ws” final is written with a loop, thus [[file:img/fig9.png]].
 
-By an extension of this principle, we may use the “ws” loop for the _Word was_, and join it to the preceding word. Similarly to “t’was” in longhand; thus X = /I was/, X = /it was/, X /that was/, X /nothing was/, X /if it was/.
+By an extension of this principle, we may use the “ws” loop for the _Word was_, and join it to the preceding word. Similarly to “t’was” in longhand; thus [[file:img/fig10.png]] = /I was/, [[file:img/fig11.png]] = /it was/, [[file:img/fig12.png]] /that was/, [[file:img/fig13.png]] /nothing was/, [[file:img/fig14.png]] /if it was/.
 * 6
 _Supra Linear_. In the termination “vowel ve”, we have the rule laid down, that the omission of this termination may be indicated by a dot, or, if inflected, by the inflection written _above_ the last letter; this was shown to be a logical consequence.
 
-Now this dot, representing the “vowel ve” termination, may very safely be used to indicate _the werb ‘have’_; as X /I have/. Compare /I’ve/ in longhand. X /do have/, X /will have/.
+Now this dot, representing the “vowel ve” termination, may very safely be used to indicate _the werb ‘have’_; as [[file:img/fig15.png]] /I have/. Compare /I’ve/ in longhand. [[file:img/fig15-2.png]] /do have/, [[file:img/fig16.png]] /will have/.
 
-N.B. This dot cannot clash with _”be”_. Why? Because this word dot is written _midway between words_; thus /all that can be said we have said/ = X.
+N.B. This dot cannot clash with _”be”_. Why? Because this word dot is written _midway between words_; thus /all that can be said we have said/ = [[file:img/fig17.png]].
 
-Naturally following this suggestion, we can deal with “having” in the same way: as X /not having/, cp. X /not being/.
+Naturally following this suggestion, we can deal with “having” in the same way: as [[file:img/fig18.png]] /not having/, cp. [[file:img/fig19.png]] /not being/.
 * 7
-_Extension of this rule_. This supra linear /ve dot/ may be omitted altogether, and a following word written _in the place of it_, to indicate the verb “have” understood. Thus X /to have been/, X /could have been/, X /he might have had/.
+_Extension of this rule_. This supra linear /ve dot/ may be omitted altogether, and a following word written _in the place of it_, to indicate the verb “have” understood. Thus [[file:img/fig20.png]] /to have been/, [[file:img/fig21.png]] /could have been/, [[file:img/fig22.png]] /he might have had/.
 * 8
-This /V Mode/ may be extended to the suffix “ow”; thus X /narrower/, X /borrow/, X /borrowing/, X /sorrow/, X /sorrowful/. See S. 32.
+This /V Mode/ may be extended to the suffix “ow”; thus [[file:img/fig23.png]] /narrower/, [[file:img/fig24.png]] /borrow/, [[file:img/fig25.png]] /borrowing/, [[file:img/fig26.png]] /sorrow/, [[file:img/fig27.png]] /sorrowful/. See S. 32.
 * 9
 As given in the manual, initial “th” is omitted and the rest of the word written _above_ the line.
 
