@@ -119,7 +119,7 @@ This document is a translation of the original document (see link below) into Em
 
 The source code is hosted at [[https://github.com/jacmoe/orthic-teach-part-2]].
 
-The original, untranslated document - https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf - is available from the Orthic homepage: https://orthic.shorthand.fun/
+The original, untranslated document is available from the Orthic homepage: https://orthic.shorthand.fun/ as https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf.
 
 
 #  LocalWords:  pagebreak asd mb cp ve th de di wh
