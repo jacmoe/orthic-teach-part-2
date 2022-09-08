@@ -85,15 +85,17 @@ When written _below_ the last letter it stands for “ly”, as X /truly/, X /ve
 * 21
 On the principle that X equals /quite/, and X equals /write/, X, /i/, will stand for the terminations “ite” or “ide”. E.g. X /bite/, X /exquisite/, X /confide/, X /deride/, etc.
 * 22
-
+By the Manual X is equivalent for “ion”; where, then, the letter ‘u’ precedes ‘tion’ or ‘sion’, the ‘t’ may be slurred, and the ‘u’ lengthened to stand for “ution”, or “usion”. Thus X /diminution/, X /solution/, X /confusion/, X /collusion/.
 * 23
-asd
+The termination “um” and “ium” which occur chiefly in Latin words, may be abbreviated by omitting the ‘u’ and ‘iu’. /Ium/ can be distinguished from ‘um’, when necessary, by dotting the “m”. Thus X /laudanum/, X /sodium/.
 * 24
-asd
+_General abbreviations_. When it is desired to abbreviate words written on the line, and to which the foregoing rules do not apply, it is usually sufficient to write the first part of the word and the termination; to follow the usual longhand contraction, as, /st/ for /first/, /ult/ for /ultimo/, etc. The great secret is to preserve the outline of the most important part of the word, cp. /mtg/ for /mortgage/.
+
+In the Manual X equals /because/, therefore X equals ‘cause’, and may be used for this word.
 * 25
-asd
+Initial /a/ - in words beginning with /anti/, /amphi/, etc. - may be omitted altogether.
 * 26
-asd
+
 * 27
 asd
 * 28
@@ -132,4 +134,4 @@ The original, untranslated document is available from the Orthic homepage: https
 
 #  LocalWords:  pagebreak asd mb cp ve th de di wh diate tiate ing ish ade ote
 #  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly Ou ount ound
-#  LocalWords:  ite ide
+#  LocalWords:  ite ide tion sion ution usion ium iu Ium amphi
