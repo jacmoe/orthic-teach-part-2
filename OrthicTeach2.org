@@ -40,7 +40,7 @@ Naturally following this suggestion, we can deal with “having” in the same w
 * 7
 _Extension of this rule_. This supra linear /ve dot/ may be omitted altogether, and a following word written _in the place of it_, to indicate the verb “have” understood. Thus [[file:img/fig20.png]] /to have been/, [[file:img/fig21.png]] /could have been/, [[file:img/fig22.png]] /he might have had/.
 * 8
-This /V Mode/ may be extended to the suffix “ow”; thus [[file:img/fig23.png]] /narrower/, [[file:img/fig24.png]] /borrow/, [[file:img/fig25.png]] /borrowing/, [[file:img/fig26.png]] /sorrow/, [[file:img/fig27.png]] /sorrowful/. See S. 32.
+This /V Mode/ may be extended to the suffix “ow”; thus [[file:img/fig23.png]] /narrower/, [[file:img/fig24.png]] /borrow/, [[file:img/fig25.png]] /borrowing/, [[file:img/fig26.png]] /sorrow/, [[file:img/fig27.png]] /sorrowful/. See Section 32.
 * 9
 As given in the manual, initial “th” is omitted and the rest of the word written _above_ the line.
 
@@ -107,11 +107,13 @@ X /ay/ equals ‘any’, therefore X is /accompany/, and X /many/.
 * 31
 X is /according/, therefore X is /accord/, and by similar reasoning X /record/, X /recording/, etc.
 * 32
-asd
+On page 19 of the Manual Supplement X equals /tomorrow/; to this we add X equals /follow/, the ‘r’ and the ‘l’ respectively being slurred. But for other words, such as /narrow/, /borrow/, /sorrow/, it is better to write X, X, X respectively. See Section 8.
 * 33
-asd
+/U/, X, is the authorised contraction for “under”, whether as a word, prefix, or a part of a word, e.g. X /under/, X /understand/, X /blunder/, X /thunder/.
+
+Extend this rule to the prefixes ‘unde’ and ‘undi’. Thus, X /undetermined/, X /undiminishing/.
 * 34
-asd
+
 * 35
 asd
 * 36
@@ -140,6 +142,8 @@ Jacob Moena
 
 #  LocalWords:  pagebreak asd mb cp ve th de di wh diate tiate ing ish ade ote
 #  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly Ou ount ound
-#  LocalWords:  ite ide tion sion ution usion ium iu Ium amphi
+#  LocalWords:  ite ide tion sion ution usion ium iu Ium amphi ble ay flycheck
+#  LocalWords:  proselint unde undi
+
 # Local Variables:
 # flycheck-disabled-checkers: (proselint)
