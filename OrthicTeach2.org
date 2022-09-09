@@ -113,15 +113,27 @@ On page 19 of the Manual Supplement X equals /tomorrow/; to this we add X equals
 
 Extend this rule to the prefixes ‘unde’ and ‘undi’. Thus, X /undetermined/, X /undiminishing/.
 * 34
-
+X is the equivalent for /first/, and X for /best/, X for /whilst/.
 * 35
-asd
+X disjoined, stands for the termination /cerning/, as X /concerning/, X /discerning/.
 * 36
-asd
+In reporting the aspirate [sound represented by the letter ‘h’] may invariably be omitted.
 * 37
-asd
+In the Manual an elementary rule is given, in all inflections of /y/ retain the y; where the diphthong /ay/ is inflected, it is not necessary to observe this rule, e.g. /paid/ can be written X or X, X /laid/, etc. The latter form being the easier in rapid writing.
 * 38
-asd
+In the Supplement to the Manual, on page 19, the author says, “there can be no doubt but that the device of shading or thickening a character is _not_ suited for general use.”
+
+Some writers, however, are of opinion that it may be used occasionally, with advantage, in reporting.
+
+The necessary distinction between strokes cannot be accomplished by many individuals; and in rapid reporting the distinction of the strokes, heavy and light, is scarcely apparent.
+
+Moreover the joining of a thin to a thick outline, and vice-versa, is a great difficulty.
+
+The author restricts the use of this device to the adding of the characters ‘l’ and ‘r’; but it appears to me, that it is better, if adopted by any writer, to restrict its use to _single words_, and _terminations standing alone_ and always written downwards.
+
+We therefore adduce [offer as an example] this rule, a thickened _right_ hand stroke, i.e. a character written from left to right, adds ‘r’, _either before or after_, e.g. X is the equivalent for /fr/ /from/, X /rk/ for /work/, X /yr/ /your/, X /are/, etc.
+
+Again, a thickened _left_ hand stroke, adds ‘l’, as X /glad/, X /people/.
 * 39
 asd
 * 40
@@ -143,7 +155,8 @@ Jacob Moena
 #  LocalWords:  pagebreak asd mb cp ve th de di wh diate tiate ing ish ade ote
 #  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly Ou ount ound
 #  LocalWords:  ite ide tion sion ution usion ium iu Ium amphi ble ay flycheck
-#  LocalWords:  proselint unde undi
+#  LocalWords:  proselint unde undi cerning rk
 
 # Local Variables:
 # flycheck-disabled-checkers: (proselint)
+# End:
