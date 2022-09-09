@@ -44,9 +44,9 @@ This /V Mode/ may be extended to the suffix “ow”; thus [[file:img/fig23.png]
 * 9
 As given in the manual, initial “th” is omitted and the rest of the word written _above_ the line.
 
-Extend this principle, and, by placing _the verb above_ the line, understand the _word they_, omitted. Thus /I think they might have been/ X, cp. /he might have been/ X.
+Extend this principle, and, by placing _the verb above_ the line, understand the _word they_, omitted. Thus /I think they might have been/ [[file:img/fig28.png]], cp. /he might have been/ [[file:img/fig29.png]].
 * 10
-_Sub linear writing_. As per the Author’s Manual, the prefixes /de/, /di/, and /dis/ may be omitted, and the rest of the word written below the line. Thus X = /declare/, X = /digress/, X /disciple/, X /descend/, X /indisputable/.
+_Sub linear writing_. As per the Author’s Manual, the prefixes /de/, /di/, and /dis/ may be omitted, and the rest of the word written below the line. Thus [[file:img/fig30.png]] = /declare/, [[file:img/fig31.png]] = /digress/, [[file:img/fig32.png]] /disciple/, [[file:img/fig33.png]] /descend/, [[file:img/fig34.png]] /indisputable/.
 
 Further, when a word begins with “wh”, the “wh” may be omitted, and the rest of the word written _below_ the line. Thus X /who/, X /what/, X /who was/.
 * 11
