@@ -135,9 +135,39 @@ We therefore adduce [offer as an example] this rule, a thickened _right_ hand st
 
 Again, a thickened _left_ hand stroke, adds ‘l’, as X /glad/, X /people/.
 * 39
-asd
+I will close these reporting rules and hints by a suggestion for very advanced writers: I will call it _line intersection_, that is, outline cutting _ruled_ line of writing. This method of abbreviation should only be employed by those who habitually use _ruled paper_ for writing upon.
+
+When the outline X, /i/, cuts the ruled line _initially_ it adds the letter “n”, e.g. X /in/, X /in the/, X /in the case of/.
+
+With other letters cutting the ruled line of writing, the prefixes ‘an’, ‘en’, or ‘in’ are indicated. Thus, X /anvil/, X /endure/, X /infirm/, etc.
 * 40
-asd
+The sole object of the foregoing pages is to give the student of Orthic hints as to the logical sequence of reporting abbreviations. Wherever it is easier to write a word in any other way, full or otherwise, write it so, for it will be quicker for you. You must ‘think’ in shorthand, if I may so say, before you can become absolutely proficient, be able to ‘see’ the outline of every word directly it is spoken and use your context judiciously.
+
+W. Stevens
+Secretary to the Cambridge Shorthand Society
+68, High Street
+Hampstead
+N. W.
+
+* The Lord’s Prayer
+Comparison between Pitman’s, The Oxford, Everett’s, Sloan Duployan, and Orthic Shorthand.
+** Pitman’s System
+X
+** The Oxford
+X
+** Everett’s
+X
+** Sloan Duployan
+X
+** Orthic
+X
+
+* Mr Gladstone at Liverpool
+** English
+** Orthic
+The above fully reported:
+X
+
 * About this document
 This document is a translation/adaptation of the original document (see link below) into Emacs Org-mode format and exported to PDF and EPub formats for easy reading.
 
