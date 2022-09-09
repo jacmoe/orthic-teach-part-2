@@ -48,32 +48,32 @@ Extend this principle, and, by placing _the verb above_ the line, understand the
 * 10
 _Sub linear writing_. As per the Author’s Manual, the prefixes /de/, /di/, and /dis/ may be omitted, and the rest of the word written below the line. Thus [[file:img/fig30.png]] = /declare/, [[file:img/fig31.png]] = /digress/, [[file:img/fig32.png]] /disciple/, [[file:img/fig33.png]] /descend/, [[file:img/fig34.png]] /indisputable/.
 
-Further, when a word begins with “wh”, the “wh” may be omitted, and the rest of the word written _below_ the line. Thus X /who/, X /what/, X /who was/.
+Further, when a word begins with “wh”, the “wh” may be omitted, and the rest of the word written _below_ the line. Thus [[file:img/fig35.png]] /who/, [[file:img/fig36.png]] /what/, [[file:img/fig37.png]] /who was/.
 * 11
-_Extension of this rule_. The word “which” is so frequently in use, that we may safely indicate the omission of the word “which” by writing the following word _below_ the line, as /did you say which it was/ X, /which might have been/ X.
+_Extension of this rule_. The word “which” is so frequently in use, that we may safely indicate the omission of the word “which” by writing the following word _below_ the line, as /did you say which it was/ [[file:img/fig38.png]], /which might have been/ [[file:img/fig39.png]].
 
 Compare the following positions:
-1. X /they might have been/.
-2. X /might have been/.
-3. X /which might have been/.
+1. [[file:img/fig40.png]] /they might have been/.
+2. [[file:img/fig41.png]] /might have been/.
+3. [[file:img/fig42.png]] /which might have been/.
 * 12
 _Intersections_. Many letters in the Orthic alphabet readily intersect. This method may be used to indicate the omission of one or two syllables; and it is especially adapted to the expression of polysyllabic terminations; e.g. /g/ for /logical/, /a/ for /diate/ or /tiate/, etc.
 * 13
-_Outline cutting outline_. The termination X /ing/ cutting the last part of a word, signifies the omission of “ish”; thus, X = /flourishing/, X = /polishing/, X = /varnishing/.
+_Outline cutting outline_. The termination [[file:img/fig43.png]] /ing/ cutting the last part of a word, signifies the omission of “ish”; thus, [[file:img/fig44.png]] = /flourishing/, [[file:img/fig45.png]] = /polishing/, [[file:img/fig46.png]] = /varnishing/.
 * 14
-The vowel /a/ X will generally intersect another letter, and may be used to express the terminations /tiate/, /diate/, /ate/, and /ade/. As X, /immediate/, or X. X /graduate/, X /fade/.
+The vowel /a/ [[file:img/fig47.png]] will generally intersect another letter, and may be used to express the terminations /tiate/, /diate/, /ate/, and /ade/. As [[file:img/fig48.png]], /immediate/, or [[file:img/fig49.png]]. [[file:img/fig50.png]] /graduate/, [[file:img/fig51.png]] /initiate/, [[file:img/fig52.png]] /fade/.
 
-Inflections of the terminations /ate/ and /ade/ will of course be indicated by the last letter of the inflection; thus X /graduated/, X /actuated/.
+Inflections of the terminations /ate/ and /ade/ will of course be indicated by the last letter of the inflection; thus [[file:img/fig53.png]] /graduated/, [[file:img/fig54.png]] /actuated/.
 
-Similarly, the vowel /o/ X, may be used to express /ote/ and /ode/; as X /remote/, X /antidote/ or X.
+Similarly, the vowel /o/ [[file:img/fig55.png]], may be used to express /ote/ and /ode/; as [[file:img/fig56.png]] /remote/, [[file:img/fig57.png]] /antidote/ or [[file:img/fig58.png]].
 * 15
-P, X, is already given in the Manual and Supplement, when intersecting, as equivalent for the termination ‘ship’, thus X /marksmanship/, X /worship/, X /fellowship/, X /secretaryship/.
+P, [[file:img/fig59.png]], is already given in the Manual and Supplement, when intersecting, as equivalent for the termination ‘ship’, thus [[file:img/fig60.png]] /marksmanship/, [[file:img/fig61.png]] /worship/, [[file:img/fig62.png]] /fellowship/, [[file:img/fig63.png]] /secretaryship/.
 * 16
-G, X, readily intersects, and may be used for the terminations _lough_ and _logical_, e.g. X /catalogue/, X /prologue/, X /zoological/, X /phrenological/.
+G, [[file:img/fig64.png]], readily intersects, and may be used for the terminations _louge_ and _logical_, e.g. [[file:img/fig65.png]] /catalogue/, [[file:img/fig66.png]] /prologue/, [[file:img/fig67.png]] /zoological/, [[file:img/fig68.png]] /phrenological/.
 * 17
-S, X, when intersecting the last letter can conveniently stand for any polysyllabic word ending in /ious/, /ceous/, etc. as X /herbaceous/, X /extraneous/, X /expeditious/, etc.
+S, [[file:img/fig69.png]], when intersecting the last letter can conveniently stand for any polysyllabic word ending in /ious/, /ceous/, etc. as [[file:img/fig70.png]] /herbaceous/, [[file:img/fig71.png]] /extraneous/, [[file:img/fig72.png]] /expeditious/, etc.
 * 18
-_Finals_. In abbreviating words ending in /ent/, /ence/, /ency/, /graph/, /ism/, /wise/, use /t/, /ce/, /cy/, /ph/, /m/, and /se/ respectively. Thus, X /subvent/, X /evidence/, X /expediency/, X /telegraph/, X /criticism/, X /otherwise/.
+_Finals_. In abbreviating words ending in /ent/, /ence/, /ency/, /graph/, /ism/, /wise/, use /t/, /ce/, /cy/, /ph/, /m/, and /se/ respectively. Thus, [[file:img/fig73.png]] /subvent/, [[file:img/fig74.png]] /evidence/, [[file:img/fig75.png]] /expediency/, [[file:img/fig76.png]] /telegraph/, [[file:img/fig77.png]] /criticism/, [[file:img/fig78.png]] /otherwise/.
 * 19
 Y, X, final, _when joined to a preceding letter_, stands for the terminations /ty/, /ary/, or /ory/. Thus, X /duty/, X /beauty/, X /lusty/, X /canary/, X /ordinary/, X /story/, X /conservatory/.
 
