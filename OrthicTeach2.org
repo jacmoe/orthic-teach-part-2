@@ -164,6 +164,7 @@ X
 
 * Mr Gladstone at Liverpool
 ** English
+I have listened, My Lord Mayor, with the warmest sympathy to the speeches of those who have gone before me, and I desire to associate myself with them in the closest manner, it is true, Ladies and Gentlemen, that I have lived a long political life, and that I have borne high, and responsible office; but it is not in regard to either of these circumstances that I now come before you, and I make no claim to authority in any shape. I come here as a loyal subject of her Majesty and especially as having been admitted, through the kindness of the Local Authority, to call myself your fellow townsman, as the possessor of the freedom of Liverpool. It has been well said that we stand today upon a higher platform than the platform of party. There is no man here whatever his opinions on ordinary politics may be, who will scruple to own or appear as if he were ashamed of them; but the national platform on which we stand gives a higher claim and greater authority to these sentiments, which, as we believe, are universally entertained from one end of the country to the other. And, my Lord Mayor, I will say for myself that, as on this occasion it is a duty to renounce all Party sympathy and party recollections, so it is a duty most easy to perform. I, for my part, entertain not only a lively hope, but a strong belief, that when in the course of time we are made more largely acquainted with the inter-relations of Governments in the transactions of the last two years, we shall find that the present deplorable situation, to whomsoever it may be due, is not due either to the act of defaults of the Government of the great country. Now my Lord Mayor, I come to the resolution which I have undertaken to move. There are certain subjects which I should wish, if I may, to deal with. There are most important distinctions to be drawn in this matter, especially on the ground that the sufferers under the present misrule, and under the horribly accumulated outrages of the last two years, the sufferers under this misrule and these outrages are our fellow Christians; and permit me to say seconding that which has been said already, we do not prosecute the cause we have in hand upon the ground that they are our fellow Christians. This is no Crusade against Mohammedanism Nay more, I will say it is no declaration of universal condemnation of the Mohammedans and the Turkish Empire. On the contrary, amidst the dismal and heartrending reports one of the rare touches of relief has been that we have seen that, in spite of the perpetration of massacre by the agents of the Government, yet there have been good, and generous Mohammedans who have resisted these misdeeds to the uttermost of their power and who have established for themselves a claim to our sympathy  and admiration.
 ** Orthic
 The above fully reported:
 X
@@ -185,7 +186,7 @@ Jacob Moena
 #  LocalWords:  pagebreak asd mb cp ve th de di wh diate tiate ing ish ade ote
 #  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly Ou ount ound
 #  LocalWords:  ite ide tion sion ution usion ium iu Ium amphi ble ay flycheck
-#  LocalWords:  proselint unde undi cerning rk
+#  LocalWords:  proselint unde undi cerning rk Pitman’s Duployan
 
 # Local Variables:
 # flycheck-disabled-checkers: (proselint)
