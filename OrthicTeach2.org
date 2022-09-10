@@ -75,41 +75,41 @@ S, [[file:img/fig69.png]], when intersecting the last letter can conveniently st
 * 18
 _Finals_. In abbreviating words ending in /ent/, /ence/, /ency/, /graph/, /ism/, /wise/, use /t/, /ce/, /cy/, /ph/, /m/, and /se/ respectively. Thus, [[file:img/fig73.png]] /subvent/, [[file:img/fig74.png]] /evidence/, [[file:img/fig75.png]] /expediency/, [[file:img/fig76.png]] /telegraph/, [[file:img/fig77.png]] /criticism/, [[file:img/fig78.png]] /otherwise/.
 * 19
-Y, X, final, _when joined to a preceding letter_, stands for the terminations /ty/, /ary/, or /ory/. Thus, X /duty/, X /beauty/, X /lusty/, X /canary/, X /ordinary/, X /story/, X /conservatory/.
+Y, [[file:img/fig79.png]], final, _when joined to a preceding letter_, stands for the terminations /ty/, /ary/, or /ory/. Thus, [[file:img/fig80.png]] /duty/, [[file:img/fig81.png]] /beauty/, [[file:img/fig82.png]] /lusty/, [[file:img/fig83.png]] /canary/, [[file:img/fig84.png]] /ordinary/, [[file:img/fig85.png]] /story/, [[file:img/fig86.png]] /conservatory/.
 
-When written _above_ the last letter, and disjoined, it is the equivalent for “ity”, e.g. X /pity/, X /sincerity/.
+When written _above_ the last letter, and disjoined, it is the equivalent for “ity”, e.g. [[file:img/fig87.png]] /pity/, [[file:img/fig88.png]] /sincerity/.
 
-When written _below_ the last letter it stands for “ly”, as X /truly/, X /verily/, X /daily/.
+When written _below_ the last letter it stands for “ly”, as [[file:img/fig89.png]] /truly/, [[file:img/fig90.png]] /verily/, [[file:img/fig91.png]] /daily/.
 * 20
-/Ou/, X, stands for the terminations /ount/ or /ound/. Thus, X /count/, X /county/, X /profound/, X /astounding/.
+/Ou/, [[file:img/fig92.png]], stands for the terminations /ount/ or /ound/. Thus, [[file:img/fig93.png]] /count/, [[file:img/fig94.png]] /county/, [[file:img/fig95.png]] /profound/, [[file:img/fig96.png]] /astounding/.
 * 21
-On the principle that X equals /quite/, and X equals /write/, X, /i/, will stand for the terminations “ite” or “ide”. E.g. X /bite/, X /exquisite/, X /confide/, X /deride/, etc.
+On the principle that [[file:img/fig97.png]] equals /quite/, and [[file:img/fig98.png]] equals /write/, [[file:img/fig99.png]], /i/, will stand for the terminations “ite” or “ide”. E.g. [[file:img/fig100.png]] /bite/, [[file:img/fig101.png]] /exquisite/, [[file:img/fig102.png]] /confide/, [[file:img/fig103.png]] /deride/, etc.
 * 22
-By the Manual X is equivalent for “ion”; where, then, the letter ‘u’ precedes ‘tion’ or ‘sion’, the ‘t’ may be slurred, and the ‘u’ lengthened to stand for “ution”, or “usion”. Thus X /diminution/, X /solution/, X /confusion/, X /collusion/.
+By the Manual [[file:img/fig104.png]] is equivalent for “ion”; where, then, the letter ‘u’ precedes ‘tion’ or ‘sion’, the ‘t’ may be slurred, and the ‘u’ lengthened to stand for “ution”, or “usion”. Thus [[file:img/fig105.png]] /diminution/, [[file:img/fig106.png]] /solution/, [[file:img/fig107.png]] /confusion/, [[file:img/fig108.png]] /collusion/.
 * 23
-The termination “um” and “ium” which occur chiefly in Latin words, may be abbreviated by omitting the ‘u’ and ‘iu’. /Ium/ can be distinguished from ‘um’, when necessary, by dotting the “m”. Thus X /laudanum/, X /sodium/.
+The termination “um” and “ium” which occur chiefly in Latin words, may be abbreviated by omitting the ‘u’ and ‘iu’. /Ium/ can be distinguished from ‘um’, when necessary, by dotting the “m”. Thus [[file:img/fig109.png]] /laudanum/, [[file:img/fig110.png]] /sodium/.
 * 24
 _General abbreviations_. When it is desired to abbreviate words written on the line, and to which the foregoing rules do not apply, it is usually sufficient to write the first part of the word and the termination; to follow the usual longhand contraction, as, /st/ for /first/, /ult/ for /ultimo/, etc. The great secret is to preserve the outline of the most important part of the word, cp. /mtg/ for /mortgage/.
 
-In the Manual X equals /because/, therefore X equals ‘cause’, and may be used for this word.
+In the Manual [[file:img/fig111.png]] equals /because/, therefore [[file:img/fig112.png]] equals ‘cause’, and may be used for this word.
 * 25
 Initial /a/ - in words beginning with /anti/, /amphi/, etc. - may be omitted altogether.
 * 26
-/Y/ X, detached and below, has been given for the termination ‘ly’. If it is found more convenient, in rapid writing, to write the ‘ly’, instead of lifting the pen, it may be done, where it is not likely to be misread. Thus, X for /probably/, X for X /fully/, etc.
+/Y/ [[file:img/fig113.png]], detached and below, has been given for the termination ‘ly’. If it is found more convenient, in rapid writing, to write the ‘ly’, instead of lifting the pen, it may be done, where it is not likely to be misread. Thus, [[file:img/fig114.png]] for /probably/, [[file:img/fig115.png]] for [[file:img/fig116.png]] /fully/, etc.
 * 27
-In the common word “right”, the Manual authorises the ‘t’ to be joined to the ‘r’, instead of being written below, as by the rule. This may also be done in such words as /taught/ X, X /daughter/, X /fraught/, X /laughter/, etc.
+In the common word “right”, the Manual authorises the ‘t’ to be joined to the ‘r’, instead of being written below, as by the rule. This may also be done in such words as /taught/ [[file:img/fig117.png]], [[file:img/fig118.png]] /daughter/, [[file:img/fig119.png]] /fraught/, [[file:img/fig120.png]] /laughter/, etc.
 * 28
-X stands for ‘able’, therefore X or X can be taken for the termination /ble/, as X /table/, X /liable/, X /terrible/, X /ignoble/, X /probable/, etc.
+[[file:img/fig121.png]] stands for ‘able’, therefore [[file:img/fig122.png]] or [[file:img/fig123.png]] can be taken for the termination /ble/, as [[file:img/fig124.png]] /table/, [[file:img/fig125.png]] /liable/, [[file:img/fig126.png]] /terrible/, [[file:img/fig127.png]] /ignoble/, [[file:img/fig128.png]] /probable/, etc.
 * 29
-X /ea/ is the recognised contraction for ‘each’, therefore X equals /teach/, X /preach/, X /reaches/, X /preacher/.
+[[file:img/fig129.png]] /ea/ is the recognised contraction for ‘each’, therefore [[file:img/fig130.png]] equals /teach/, [[file:img/fig131.png]] /preach/, [[file:img/fig132.png]] /reaches/, [[file:img/fig133.png]] /preacher/.
 * 30
-X /ay/ equals ‘any’, therefore X is /accompany/, and X /many/.
+[[file:img/fig134.png]] /ay/ equals ‘any’, therefore [[file:img/fig135.png]] is /accompany/, and [[file:img/fig136.png]] /many/.
 * 31
-X is /according/, therefore X is /accord/, and by similar reasoning X /record/, X /recording/, etc.
+[[file:img/fig137.png]] is /according/, therefore [[file:img/fig138.png]] is /accord/, and by similar reasoning [[file:img/fig139.png]] /record/, [[file:img/fig140.png]] /recording/, etc.
 * 32
-On page 19 of the Manual Supplement X equals /tomorrow/; to this we add X equals /follow/, the ‘r’ and the ‘l’ respectively being slurred. But for other words, such as /narrow/, /borrow/, /sorrow/, it is better to write X, X, X respectively. See Section 8.
+On page 19 of the Manual Supplement [[file:img/fig141.png]] equals /tomorrow/; to this we add [[file:img/fig142.png]] equals /follow/, the ‘r’ and the ‘l’ respectively being slurred. But for other words, such as /narrow/, /borrow/, /sorrow/, it is better to write [[file:img/fig143.png]], [[file:img/fig144.png]], [[file:img/fig145.png]] respectively. See Section 8.
 * 33
-/U/, X, is the authorised contraction for “under”, whether as a word, prefix, or a part of a word, e.g. X /under/, X /understand/, X /blunder/, X /thunder/.
+/U/, [[file:img/fig146.png]], is the authorised contraction for “under”, whether as a word, prefix, or a part of a word, e.g. X /under/, X /understand/, X /blunder/, X /thunder/.
 
 Extend this rule to the prefixes ‘unde’ and ‘undi’. Thus, X /undetermined/, X /undiminishing/.
 * 34
