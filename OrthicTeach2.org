@@ -32,7 +32,7 @@ By an extension of this principle, we may use the “ws” loop for the _Word wa
 * 6
 _Supra Linear_. In the termination “vowel ve”, we have the rule laid down, that the omission of this termination may be indicated by a dot, or, if inflected, by the inflection written _above_ the last letter; this was shown to be a logical consequence.
 
-Now this dot, representing the “vowel ve” termination, may very safely be used to indicate _the werb ‘have’_; as [[file:img/fig15.png]] /I have/. Compare /I’ve/ in longhand. [[file:img/fig15-2.png]] /do have/, [[file:img/fig16.png]] /will have/.
+Now this dot, representing the “vowel ve” termination, may very safely be used to indicate _the verb ‘have’_; as [[file:img/fig15.png]] /I have/. Compare /I’ve/ in longhand. [[file:img/fig15-2.png]] /do have/, [[file:img/fig16.png]] /will have/.
 
 N.B. This dot cannot clash with _”be”_. Why? Because this word dot is written _midway between words_; thus /all that can be said we have said/ = [[file:img/fig17.png]].
 
@@ -143,11 +143,13 @@ With other letters cutting the ruled line of writing, the prefixes ‘an’, ‘
 * 40
 The sole object of the foregoing pages is to give the student of Orthic hints as to the logical sequence of reporting abbreviations. Wherever it is easier to write a word in any other way, full or otherwise, write it so, for it will be quicker for you. You must ‘think’ in shorthand, if I may so say, before you can become absolutely proficient, be able to ‘see’ the outline of every word directly it is spoken and use your context judiciously.
 
-W Stevens
+#+begin_verse
+W. Stevens
 Secretary to the Cambridge Shorthand Society
 68, High Street
 Hampstead
-N W
+N. W.
+#+end_verse
 
 * The Lord’s Prayer
 Comparison between Pitman’s, The Oxford, Everett’s, Sloan Duployan, and Orthic Shorthand.
@@ -182,8 +184,10 @@ Adapted versions of the Orthic Manual and Supplement can be found at the Orthic 
 
 Do visit the Reddit Orthic Society, https://www.reddit.com/r/orthic/, to discuss, learn, and share your work with fellow Orthicians.
 
+#+begin_verse
 September 2022
 Jacob Moena
+#+end_verse
 
 #  LocalWords:  pagebreak asd mb cp ve th de di wh diate tiate ing ish ade ote
 #  LocalWords:  ious ceous ent ence ce cy ph se ty ary ory ity ly Ou ount ound
